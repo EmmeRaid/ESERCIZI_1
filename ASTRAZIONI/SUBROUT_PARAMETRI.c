@@ -21,7 +21,7 @@ int main()
 {
     int scelta;
 
-    logo('*');
+    logo('*'); // '*', '#' => IN QUESTO CASO SONO PARAMETRI ATTUALI 
     printf("1. Tizio\n");
     printf("2. Caio\n");
     printf("SCegliere contatto\n");
